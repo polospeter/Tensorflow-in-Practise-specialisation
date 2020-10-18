@@ -1,3 +1,3 @@
 # Tensorflow-in-Practise-specialisation
 
-This repository will include all my solution for the Tensorflow in Practise specialisation from Coursera.
+This repository contains all my assignment and scripts for all 4 courses of the Tensorflow in Practise specialisation provided by deeplearning.ai on Coursera.
