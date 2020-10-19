@@ -1,4 +1,4 @@
-# Tensorflow-in-Practise-specialisation
+# Tensorflow-Developer-specialisation
 
 This repository contains all my assignment and scripts for all 4 courses of the Tensorflow in Practise specialisation provided by deeplearning.ai on Coursera.
 
@@ -12,22 +12,11 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
 
 #### Week 1: A New Programming Paradigm
 
-- Introduction: A conversation with Andrew Ng
-- A primer in machine learning
-- The “Hello World” of neural networks
-- Working through “Hello World” in TensorFlow and Python
-- [Week 1 - Predicting house price.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/1.%20Intro%20to%20Tensorflow/Week%201%20-%20Predicting%20house%20price.ipynb)
+- [Week 1 - Predicting house price.ipynb]
 
 #### Week 2: Introduction to Computer Vision
 
-- A conversation with Andrew Ng
-- An introduction to computer vision
-- Writing code to load training data
-- Coding a computer vision neural network
-- Walk through a notebook for computer vision
-- Using callbacks to control training
-- Walk through a notebook with callbacks
-- [Week 2 - Classifying Fashion MNIST with MLP.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/1.%20Intro%20to%20Tensorflow/Week%202%20-%20Classifying%20Fashion%20MNIST%20with%20MLP.ipynb)
+- [Week 2 - Classifying Fashion MNIST with MLP.ipynb]
 
 #### Week 3: Enhancing Vision with Convolutional Neural Networks
 
