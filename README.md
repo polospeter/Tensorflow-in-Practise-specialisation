@@ -20,11 +20,11 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
 
 #### Week 3: Enhancing Vision with Convolutional Neural Networks
 
-- [Week 3 - Classifying Fashion MNIST with CNN.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/1.%20Intro%20to%20Tensorflow/Week%203%20-%20Classifying%20Fashion%20MNIST%20with%20CNN.ipynb)
+- [Week 3 - Classifying Fashion MNIST with CNN.ipynb]
 
 #### Week 4: Using Real-World Images
 
-- [Week 4 - Classifying emotion with CNN.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/1.%20Intro%20to%20Tensorflow/Week%204%20-%20Classifying%20emotion%20with%20CNN.ipynb)
+- [Week 4 - Classifying emotion with CNN.ipynb]
 
 ## Course 2: Convolutional Neural Networks in TensorFlow
 
@@ -52,36 +52,25 @@ In this third course, you’ll learn how to apply neural networks to solve natur
 
 #### Week 1: Sentiment in Text
 
-- [Week 1.1 - Detecting sarcasm in news headlines with LSTM and CNN.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%201.1%20-%20Detecting%20sarcasm%20in%20news%20headlines%20with%20LSTM%20and%20CNN.ipynb)
-- [Week 1.2 - Exploring BBC news data.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%201.2%20-%20Exploring%20BBC%20news%20data.ipynb)
+- [Week 1.1 - Detecting sarcasm in news headlines with LSTM and CNN.ipynb]
+
+- [Week 1.2 - Exploring BBC news data.ipynb]
 
 #### Week 2: Word Embeddings
 
-- [Week 2.1 - Classifying IMDB reviews data (Embedding + MLP).ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%202.1%20-%20Classifying%20IMDB%20reviews%20data%20(Embedding%20%2B%20MLP).ipynb)
+- [Week 2.1 - Classifying IMDB reviews data (Embedding + MLP).ipynb]
+
 - [Week 2.2 - Classifying BBC news into topics (Embedding + Conv + MLP).ipynb]
 
 #### Week 3: Sequence Models
 
-- A conversation with Andrew Ng
-- LSTMs
-- Implementing LSTMs in code
-- A word from Laurence
-- Accuracy and Loss
-- Using a convolutional network
-- Going back to the IMDB dataset
-- Tips from Laurence
-- [Week 3.1 - Classifying IMDB reviews (Embedding + Conv1D).ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%203.1%20-%20Classifying%20IMDB%20reviews%20(Embedding%20%2B%20Conv1D).ipynb)
-- [Week 3.2 - Twitter sentiment classification (GloVe).ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%203.2%20-%20Twitter%20sentiment%20classification%20(GloVe).ipynb)
+- [Week 3.1 - Classifying IMDB reviews (Embedding + Conv1D).ipynb]
+
+- [Week 3.2 - Twitter sentiment classification (GloVe).ipynb]
 
 #### Week 4: Sequence Models and Literature
 
-- A conversation with Andrew Ng
-- Training the data
-- Finding what the next word should be
-- Predicting a word
-- Poetry!
-- Laurence the poet
-- [Week 4 - Poem generation with Bi-directional LSTM.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Week%204%20-%20Poem%20generation%20with%20Bi-directional%20LSTM.ipynb)
+- [Week 4 - Poem generation with Bi-directional LSTM.ipynb]
 
 ## Course 4: Sequences, Time Series, and Prediction
 
@@ -89,28 +78,10 @@ In this fourth course, you will learn how to solve time series and forecasting p
 
 #### Week 1: Sequences and Prediction
 
-- Introduction: a conversation with Andrew Ng
-- Time series examples
-- Machine learning applied to time series
-- Common patterns in time series
-- Introduction to time series
-- Train, validation, and test sets
-- Metrics for evaluating performance
-- Moving average and differencing
-- Trailing versus centered windows
-- Forecasting
-- [Week 1 - Create and predict synthetic data with time series decomposition.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/4.%20Sequences%20and%20Prediction/Week%201%20-%20Create%20and%20predict%20synthetic%20data%20with%20time%20series%20decomposition.ipynb)
+- [Week 1 - Create and predict synthetic data with time series decomposition.ipynb]
 
 #### Week 2: Deep Neural Networks for Time Series
 
-- A conversation with Andrew Ng
-- Preparing features and labels
-- Feeding a windowed dataset into a neural network
-- Single layer neural network
-- Machine learning on time windows
-- Prediction
-- More on single-layer network
-- Deep neural network training, tuning, and prediction
 - [Week 2.1 - Prepare features and labels.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/4.%20Sequences%20and%20Prediction/Week%202.1%20-%20Prepare%20features%20and%20labels.ipynb)
 - [Week 2.2 - Predict synthetic data with Linear Regression.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/4.%20Sequences%20and%20Prediction/Week%202.2%20-%20Predict%20synthetic%20data%20with%20Linear%20Regression.ipynb)
 - [Week 2.3 - Predict synthetic data with MLP.ipynb](https://github.com/ashishpatel26/Tensorflow-in-practise-Specialization/blob/master/4.%20Sequences%20and%20Prediction/Week%202.3%20-%20Predict%20synthetic%20data%20with%20MLP.ipynb)
