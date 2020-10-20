@@ -12,7 +12,7 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
 
 #### Week 1: A New Programming Paradigm
 
-- [Week 1 - Predicting house price.ipynb]
+- [Week 1 - Predicting house price.ipynb](https://github.com/polospeter/Tensorflow-in-Practise-specialisation/blob/main/Course%201%20-%20Introduction%20to%20TensorFlow%20for%20AI%2C%20ML%20and%20DL/Week%201/Exercise_1_House_Prices_Question.ipynb)
 
 #### Week 2: Introduction to Computer Vision
 
