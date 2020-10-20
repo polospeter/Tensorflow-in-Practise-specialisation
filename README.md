@@ -32,11 +32,11 @@ This second course teaches you advanced techniques to improve the computer visio
 
 #### Week 1: Exploring a Larger Dataset
 
-- [Week 1 - Classifying Cats and Dogs.ipynb]
+- [Week 1 - Classifying Cats and Dogs.ipynb](https://github.com/polospeter/Tensorflow-in-Practise-specialisation/blob/main/Course%202%20-%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%201/Exercise_5_Answer.ipynb)
 
 #### Week 2: Augmentation, a Technique to Avoid Overfitting
 
-- [Week 2 - Improving Cats and Dogs Classifier.ipynb]
+- [Week 2 - Improving Cats and Dogs Classifier.ipynb](https://github.com/polospeter/Tensorflow-in-Practise-specialisation/blob/main/Course%202%20-%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%202/Copy_of_Exercise_6_Answer.ipynb)
 
 #### Week 3: Transfer Learning
 
