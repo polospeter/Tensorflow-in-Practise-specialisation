@@ -16,15 +16,15 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
 
 #### Week 2: Introduction to Computer Vision
 
-- [Week 2 - Classifying Fashion MNIST with MLP.ipynb]
+- [Week 2 - Classifying Fashion MNIST with MLP.ipynb](https://github.com/polospeter/Tensorflow-in-Practise-specialisation/blob/main/Course%201%20-%20Introduction%20to%20TensorFlow%20for%20AI%2C%20ML%20and%20DL/Week%202/Exercise2-MNIST.ipynb)
 
 #### Week 3: Enhancing Vision with Convolutional Neural Networks
 
-- [Week 3 - Classifying Fashion MNIST with CNN.ipynb]
+- [Week 3 - Classifying Fashion MNIST with CNN.ipynb](https://github.com/polospeter/Tensorflow-in-Practise-specialisation/blob/main/Course%201%20-%20Introduction%20to%20TensorFlow%20for%20AI%2C%20ML%20and%20DL/Week%203/Excercise%203%20Question.ipynb)
 
 #### Week 4: Using Real-World Images
 
-- [Week 4 - Classifying emotion with CNN.ipynb]
+- [Week 4 - Classifying emotion with CNN.ipynb](https://github.com/polospeter/Tensorflow-in-Practise-specialisation/blob/main/Course%201%20-%20Introduction%20to%20TensorFlow%20for%20AI%2C%20ML%20and%20DL/Week%204/Exercise4-Question.ipynb)
 
 ## Course 2: Convolutional Neural Networks in TensorFlow
 
