@@ -52,13 +52,13 @@ In this third course, you’ll learn how to apply neural networks to solve natur
 
 #### Week 1: Sentiment in Text
 
-- [Week 1.1 - Detecting sarcasm in news headlines with LSTM and CNN.ipynb]
+- [Week 1.1 - Detecting sarcasm in news headlines with LSTM and CNN.ipynb](https://github.com/polospeter/Tensorflow-in-Practise-specialisation/blob/main/Course%203%20-%20Natural%20Language%20Processing%20in%20TensorFlow/Week%201/Course%203%20-%20Week%201%20-%20Exercise-Answer.ipynb)
 
-- [Week 1.2 - Exploring BBC news data.ipynb]
+- [Week 1.2 - Exploring BBC news data.ipynb](https://github.com/polospeter/Tensorflow-in-Practise-specialisation/blob/main/Course%203%20-%20Natural%20Language%20Processing%20in%20TensorFlow/Week%201/Course%203%20-%20Week%201%20-%20Lesson%203.ipynb)
 
 #### Week 2: Word Embeddings
 
-- [Week 2.1 - Classifying IMDB reviews data (Embedding + MLP).ipynb]
+- [Week 2.1 - Classifying IMDB reviews data (Embedding + MLP).ipynb](https://github.com/polospeter/Tensorflow-in-Practise-specialisation/blob/main/Course%203%20-%20Natural%20Language%20Processing%20in%20TensorFlow/Week%202/Course%203%20-%20Week%202%20-%20Exercise-Answer.ipynb)
 
 - [Week 2.2 - Classifying BBC news into topics (Embedding + Conv + MLP).ipynb]
 
