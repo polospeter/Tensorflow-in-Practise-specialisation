@@ -40,11 +40,11 @@ This second course teaches you advanced techniques to improve the computer visio
 
 #### Week 3: Transfer Learning
 
-- [Week 3 - Transfer learning (VGG Net).ipynb]
+- [Week 3 - Transfer learning (VGG Net).ipynb](https://github.com/polospeter/Tensorflow-in-Practise-specialisation/blob/main/Course%202%20-%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%203/Copy_of_Exercise_7_Answer.ipynb)
 
 #### Week 4: Multi-class Classifications
 
-- [Week 4 - Classifying images of sign languages.ipynb]
+- [Week 4 - Classifying images of sign languages.ipynb](https://github.com/polospeter/Tensorflow-in-Practise-specialisation/blob/main/Course%202%20-%20Convolutional%20Neural%20Networks%20in%20TensorFlow/Week%204/Copy_of_Exercise_8_Answer.ipynb)
 
 ## Course 3: Natural Language Processing in TensorFlow
 
