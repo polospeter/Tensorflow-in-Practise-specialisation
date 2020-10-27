@@ -78,7 +78,7 @@ In this fourth course, you will learn how to solve time series and forecasting p
 
 #### Week 1: Sequences and Prediction
 
-- [Week 1 - Create and predict synthetic data with time series decomposition.ipynb]
+- [Week 1 - Create and predict synthetic data with time series decomposition.ipynb](https://github.com/polospeter/Tensorflow-in-Practise-specialisation/blob/main/Course%204%20-%20Sequences%2C%20Time%20Series%2C%20and%20Prediction/Week%201/Course%204%20-%20Week%201%20-%20Exercise-Question.ipynb)
 
 #### Week 2: Deep Neural Networks for Time Series
 
