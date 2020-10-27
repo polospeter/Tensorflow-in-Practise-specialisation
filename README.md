@@ -70,7 +70,7 @@ In this third course, you’ll learn how to apply neural networks to solve natur
 
 #### Week 4: Sequence Models and Literature
 
-- [Week 4 - Poem generation with Bi-directional LSTM.ipynb]
+- [Week 4 - Poem generation with Bi-directional LSTM.ipynb](https://github.com/polospeter/Tensorflow-in-Practise-specialisation/blob/main/Course%203%20-%20Natural%20Language%20Processing%20in%20TensorFlow/Week%204/Course%203%20-%20Week%204%20-%20Exercise-Answer.ipynb)
 
 ## Course 4: Sequences, Time Series, and Prediction
 
