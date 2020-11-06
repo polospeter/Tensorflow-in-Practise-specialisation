@@ -60,7 +60,7 @@ In this third course, you’ll learn how to apply neural networks to solve natur
 
 - [Week 2.1 - Classifying IMDB reviews data (Embedding + MLP).ipynb](https://github.com/polospeter/Tensorflow-in-Practise-specialisation/blob/main/Course%203%20-%20Natural%20Language%20Processing%20in%20TensorFlow/Week%202/Course%203%20-%20Week%202%20-%20Exercise-Answer.ipynb)
 
-- [Week 2.2 - Classifying BBC news into topics (Embedding + Conv + MLP).ipynb]
+- [Week 2.2 - Classifying BBC news into topics (Embedding + Conv + MLP).ipynb](https://github.com/polospeter/Tensorflow-in-Practise-specialisation/blob/main/Course%203%20-%20Natural%20Language%20Processing%20in%20TensorFlow/Week%202/Course%203%20-%20Week%202%20-%20Exercise-Answer.ipynb)
 
 #### Week 3: Sequence Models
 
