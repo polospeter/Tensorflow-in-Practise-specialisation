@@ -96,3 +96,4 @@ In this fourth course, you will learn how to solve time series and forecasting p
 
 #### Week 4: Real-world Time Series Data
 
+- [Week 4](https://github.com/polospeter/Tensorflow-in-Practise-specialisation/blob/main/Course%204%20-%20Sequences%2C%20Time%20Series%2C%20and%20Prediction/Week%204/Course%204%20-%20Week%204%20-%20Exercise-Answer.ipynb)
