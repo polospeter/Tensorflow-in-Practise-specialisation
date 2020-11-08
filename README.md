@@ -82,11 +82,7 @@ In this fourth course, you will learn how to solve time series and forecasting p
 
 #### Week 2: Deep Neural Networks for Time Series
 
-- [Week 2.1 - Prepare features and labels.ipynb]
-
-- [Week 2.2 - Predict synthetic data with Linear Regression.ipynb]
-
-- [Week 2.3 - Predict synthetic data with MLP.ipynb]
+- [Week 2 - Predict synthetic data with MLP.ipynb](https://github.com/polospeter/Tensorflow-in-Practise-specialisation/blob/main/Course%204%20-%20Sequences%2C%20Time%20Series%2C%20and%20Prediction/Week%202/Course%204%20-%20Week%202%20-%20Exercise-Answer.ipynb)
 
 #### Week 3: Recurrent Neural Networks for Time Series
 
