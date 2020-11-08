@@ -90,9 +90,9 @@ In this fourth course, you will learn how to solve time series and forecasting p
 
 #### Week 3: Recurrent Neural Networks for Time Series
 
-- [Week 3.1 - Finding an optimal learning rate for a RNN.ipynb]
+- [Week 3.1 - Finding an optimal learning rate for a RNN.ipynb](https://github.com/polospeter/Tensorflow-in-Practise-specialisation/blob/main/Course%204%20-%20Sequences%2C%20Time%20Series%2C%20and%20Prediction/Week%203/Course%204%20-%20Week%203%20-%20Lesson%202.ipynb)
 
-- [Week 3.2 - LSTM.ipynb]
+- [Week 3.2 - LSTM.ipynb](https://github.com/polospeter/Tensorflow-in-Practise-specialisation/blob/main/Course%204%20-%20Sequences%2C%20Time%20Series%2C%20and%20Prediction/Week%203/Course%204%20-%20Week%203%20-%20Exercise-Answer.ipynb)
 
 #### Week 4: Real-world Time Series Data
 
