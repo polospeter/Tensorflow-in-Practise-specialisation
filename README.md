@@ -64,9 +64,9 @@ In this third course, you’ll learn how to apply neural networks to solve natur
 
 #### Week 3: Sequence Models
 
-- [Week 3.1 - Classifying IMDB reviews (Embedding + Conv1D).ipynb]
+- [Week 3.1 - Classifying IMDB reviews (Embedding + Conv1D).ipynb](https://github.com/polospeter/Tensorflow-in-Practise-specialisation/blob/main/Course%203%20-%20Natural%20Language%20Processing%20in%20TensorFlow/Week%203/Course%203%20-%20Week%203%20-%20Lesson%20-%202D.ipynb)
 
-- [Week 3.2 - Twitter sentiment classification (GloVe).ipynb]
+- [Week 3.2 - Twitter sentiment classification (GloVe).ipynb](https://github.com/polospeter/Tensorflow-in-Practise-specialisation/blob/main/Course%203%20-%20Natural%20Language%20Processing%20in%20TensorFlow/Week%203/Course%203%20-%20Week%203%20-%20Exercise-Answer.ipynb)
 
 #### Week 4: Sequence Models and Literature
 
