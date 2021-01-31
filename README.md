@@ -1,6 +1,6 @@
 # Tensorflow-in-Practise-specialisation
 
-This repository contains all my assignment and scripts for all 4 courses of the Tensorflow in Practise specialisation provided by deeplearning.ai on Coursera. Link to specialisation: https://www.coursera.org/professional-certificates/tensorflow-in-practice?
+This repository contains all my assignment and scripts for all 4 courses of the Tensorflow in Practise specialisation provided by deeplearning.ai on Coursera. Link to the specialisation: https://www.coursera.org/professional-certificates/tensorflow-in-practice?
 
 ![](https://d2wvfoqc9gyqzf.cloudfront.net/content/uploads/2019/06/Website-TFSDesktopBanner.png)
 
